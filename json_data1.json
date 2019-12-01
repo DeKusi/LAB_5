@@ -1,0 +1,133 @@
+{
+  "Name": "ИТМО",
+  "Location": {
+    "address": "Кронверский пр. 49",
+    "city": "Санкт-Петербург",
+    "index": 197101
+  },
+  "Rector": {
+    "Name": "Владимир",
+    "Surname": "Васильев",
+    "Middlename": "Николаевич",
+    "Ocupation": "Ректор",
+    "Personnel Number": 144
+  },
+  "Subdivision": {
+    "Administrative": [
+      {
+        "ID": "102408",
+        "Name": "Ректорат",
+        "Supervisor": {
+          "Name": "Галина",
+          "Surname": "Марковна",
+          "Ocupation": "Руководитель",
+          "Personnel Number": 100
+        },
+        "Staff": [
+          {
+            "Name": "Татьяна",
+            "Surname": "Васильеваa",
+            "Ocupation": "Работник",
+            "Personnel Number": 708
+          },
+          {
+            "Name": "Анастасия",
+            "Surname": "Романова",
+            "Ocupation": "Работник",
+            "Personnel Number": 809
+          }
+        ]
+      },
+      {
+        "ID": "938312",
+        "Name": "Бугалтерия",
+        "Supervisor": {
+          "Name": "Ирина",
+          "Surname": "Михайловна",
+          "Ocupation": "Руководитель",
+          "Personnel Number": 202
+        },
+        "Staff": [
+          {
+            "Name": "Иван",
+            "Surname": "Корннилов",
+            "Ocupation": "Работник",
+            "Personnel Number": 265
+          },
+          {
+            "Name": "Алеся",
+            "Surname": "Васильева",
+            "Ocupation": "Работник",
+            "Personnel Number": 906
+          }
+        ]
+      }
+    ],
+    "Educational": [
+      {
+        "ID": "765432",
+        "Name": "МФ ТИнТ",
+        "Supervisor": {
+          "Name": "Александр",
+          "Surname": "Бухановский",
+          "Middlename": "Николаевич",
+          "Ocupation": "Руководитель",
+          "Personnel Number": 865
+        },
+        "Staff": [
+          {
+            "Name": "Анна",
+            "Surname": "Виноградова",
+            "Ocupation": "Работник",
+            "Personnel Number": 435
+          }
+        ],
+        "Faculty": [
+          {
+            "ID": 120321,
+            "Name": "ИКС",
+            "Supervisor": {
+              "Name": "Сергей",
+              "Surname": "Хоружников",
+              "Middlename": "Эдуардович",
+              "Ocupation": "Руководитель",
+              "Personnel Number": 143
+            },
+            "Staff": [
+              {
+                "Name": "Олеся",
+                "Surname": "Горохова",
+                "Ocupation": "Работник",
+                "Personnel Number": 222
+              }
+            ],
+            "Programs": [
+              {
+                "Num": "11.03.02",
+                "Name": "Программирование в инфокоммуникационных системах",
+                "discipline": "Инфокоммуникационные системы и технологии",
+                "Year": {
+                  "year": "2019-2020",
+                  "groups": [
+                    {
+                      "Name": "K3120",
+                      "Students": [
+                        {
+                          "name": "Анна",
+                          "surname": "Лаврина",
+                          "middlename": "Николаевна",
+                          "bursary": 7000,
+                          "Personnel Number": 285323
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
